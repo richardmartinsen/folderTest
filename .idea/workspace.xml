@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae54cb8c-22ca-4c27-842c-d5e98ec9334e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XaYlbR4yxmQEgMhjUjVeYg38oE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="folderTest.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="folderTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="folderTest.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.folderTest.AppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae54cb8c-22ca-4c27-842c-d5e98ec9334e" name="Default Changelist" comment="" />
+      <created>1581285824825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581285824825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2371" y="417" key="#com.intellij.ide.util.MemberChooser" timestamp="1581287877025">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2371" y="417" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1581287877025" />
+    <state width="1674" height="398" key="GridCell.Tab.0.bottom" timestamp="1581289955142">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1581289955142" />
+    <state width="1674" height="398" key="GridCell.Tab.0.center" timestamp="1581289955142">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1581289955142" />
+    <state width="1674" height="398" key="GridCell.Tab.0.left" timestamp="1581289955142">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1581289955142" />
+    <state width="1674" height="398" key="GridCell.Tab.0.right" timestamp="1581289955142">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1581289955142" />
+  </component>
+</project>
